@@ -1,31 +1,28 @@
-# Built for Summer 2021 software engineering internship at Shopify Front end(also comfartable with backend/android positions)
+# Built for SHOPIFY Winter 2022 Front software engineering internship 
 
 Here is link for the the deployed app
 
-https://shopify-shoppies-nourish-app.netlify.app/
+https://spacestagram-nourish.netlify.app/
 
-Here is the Youtube video of the app.
-
-https://youtu.be/YNdZD2Tg5SM
 
 Please create an account with your name.
 You can login using the same name and your data will be stored in database.
 You should see your saved data when you login.
 
-(not built to withstand refresh. app will restart)
+Features
+1. Simple Login mechanism
+2. Loading icon when data is being fetched
+3. Beautiful and responsive UI
+4. Like image
+5. Unlike image
+6. Liked images displayed when refreshed
+7. Backend server built using MongoDB and express
+8. Snackbar when liked
+9. A separate Liked images Page
+
+
  
  Backend server is deployed in heroku
-
-
- Extra features
-1. Login
-2. create account
-3. logout
-4. saving nomination list in mongodb datbase
-5. Loading animations
-6. Notification for error and success
-7.Beutifully designed using material UI
-8. used React hooks to do network requests
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
